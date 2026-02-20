@@ -1,0 +1,9 @@
+# Scratch staging (process-local)
+/docs/processes/precall/scratch/
+
+# Generated exports (process-local)
+/docs/processes/precall/exports/
+
+# Whiteboard exports (process-local)
+/docs/processes/post-engagement/Whiteboards/*
+!/docs/processes/post-engagement/Whiteboards/README.md
